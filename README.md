@@ -12,7 +12,7 @@ A simple Task Manager app that allows users to register, authenticate, and manag
 #Setup Instructions
 -------------------------------------------------------------
 1. Clone the repository
-   git clone https://github.com/NilusCodeRepo/task-manager-app.git
+   <br>git clone https://github.com/NilusCodeRepo/task-manager-app.git
    cd your_repo_name
    
 3. Install Dependencies
